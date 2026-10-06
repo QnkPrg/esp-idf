@@ -1,4 +1,4 @@
-name: "Espressif IoT Development Framework (ESP-IDF)"
+name: "build hello world example for ESP32-C3"
 on:
   workflow_dispatch:
     inputs:
